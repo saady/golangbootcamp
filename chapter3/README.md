@@ -211,7 +211,3 @@ func main() {
         fmt.Printf("%+v", p)
 }
 ```
-
-Output
-
-```shell
